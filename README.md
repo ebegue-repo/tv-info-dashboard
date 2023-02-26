@@ -14,7 +14,7 @@ npm version: 8.19.2
 vue/cli version: 5.0.8
 ```
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
@@ -37,11 +37,7 @@ npm run test:unit
 
 ### Use of the "TVMaze dashaboard"
 ```
-First you access to a main menu that explains to you how to access the shows information. If you click on the "Shows" menu you access to the shows dashboard. 
-
-I only show 6 shows slicing the array retrieved from the backend. However, in future iterations, I would like to include pagination. 
-
-The search is very easy to use. If you search by any word (for example "person") the first 6 shows resulting of the search query are retrieved. If you search with the empty box the first 6 shows retrieving from the "get all the shows" query are retrieved. If there are no results for your search, a message is displayed; "No results for this search". You can click on any show and check the summary of it in the right detail panel.
+First you access to a main menu that explains to you how to access the shows information. If you click on the "Shows" menu you access to the shows dashboard. I only show 6 shows slicing the array retrieved from the backend. However, in future iterations, I would like to include pagination. The search is very easy to use. If you search by any word (for example "person") the first 6 shows resulting of the search query are retrieved. If you search with the empty box the first 6 shows retrieving from the "get all the shows" query are retrieved. If there are no results for your search, a message is displayed; "No results for this search". You can click on any show and check the summary of it in the right detail panel.
 ```
 
 ### Technologies
