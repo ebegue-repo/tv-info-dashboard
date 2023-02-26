@@ -10,8 +10,8 @@
 
 ### Local environment
 ```
-npm version: 8.19.2
-vue/cli version: 5.0.8
+npm version: 8.19.2 (brew install node)
+vue/cli version: 5.0.8 (npm install -g @vue/cli)
 ```
 
 ### Project setup
