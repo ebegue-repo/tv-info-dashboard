@@ -1,0 +1,12 @@
+// Vitest Snapshot v1
+
+exports[`FooterVue > It should render a footer that includes the current year, copyright symbol and the TV MAZE name 1`] = `
+"<footer class=\\"bg-black text-white\\">
+  <div class=\\"mx-auto max-w-7xl py-12 px-4 sm:px-6 md:flex md:items-center md:justify-between lg:px-8\\">
+    <div class=\\"flex justify-center space-x-6 md:order-2\\"><img src=\\"/src/assets/images/tvm_logo.png\\"></div>
+    <div class=\\"mt-8 md:order-1 md:mt-0\\">
+      <p class=\\"text-center text-base text-gray-400\\">© 2023 TV MAZE</p>
+    </div>
+  </div>
+</footer>"
+`;

@@ -1,0 +1,134 @@
+// Vitest Snapshot v1
+
+exports[`ShowDetails > It should render the generic navigation bar with title "test label" and match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;
+
+exports[`ShowDetails > It should render the show detail panel with the expected name and  and match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;
+
+exports[`ShowDetails > It should render the show detail panel with the expected name and summary. Also it should match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;
+
+exports[`ShowDetails > It should render the show detail panel with the expected name and summary. and match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;
+
+exports[`ShowDetails > It should render the show detail panel with title "Under the dome" and match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;
+
+exports[`ShowDetails > It should render the show detail panel with title "test label" and match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;
+
+exports[`ShowDetails > It should render the shows  with title "test label" and match the snapshot 1`] = `
+"<article>
+  <div>
+    <div><img class=\\"h-32 w-full object-cover lg:h-48 opacity-20\\" src=\\"/home.avif\\" alt=\\"\\"></div>
+    <div class=\\"mx-auto max-w-5xl px-4 sm:px-6 lg:px-8\\">
+      <div class=\\"-mt-12 sm:-mt-16 sm:flex sm:items-end sm:space-x-5\\">
+        <div class=\\"flex\\"><img class=\\"h-24 w-24 rounded-full ring-4 ring-white sm:h-32 sm:w-32\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\"></div>
+      </div>
+      <div class=\\"min-w-0 flex-1 mt-2\\">
+        <h1 class=\\"truncate text-2xl font-bold text-gray-900\\">Under the dome</h1>
+        <p class=\\"text-sm font-medium text-gray-900 mt-2\\">
+        <p><b>Under the Dome</b> is the story of a small town that is suddenly and inexplicably sealed off from the rest of the world by an enormous transparent dome. The town's inhabitants must deal with surviving the post-apocalyptic conditions while searching for answers about the dome, where it came from and if and when it will go away.</p>
+        </p>
+      </div>
+    </div>
+  </div>
+</article>"
+`;

@@ -1,0 +1,41 @@
+// Vitest Snapshot v1
+
+exports[`ShowsTable > It should render the shows table with the proper headers and show name. Also it has to match the snapshot 1`] = `
+"<div class=\\"divide-y divide-gray-200 overflow-hidden rounded-lg bg-white shadow\\">
+  <div class=\\"flex justify-center mt-7\\">
+    <div class=\\"mb-3 xl:w-96\\">
+      <div class=\\"relative mb-4 flex w-full flex-wrap items-stretch\\"><input type=\\"search\\" class=\\"relative m-0 -mr-px block w-[1%] min-w-0 flex-auto rounded-l border border-solid border-neutral-300 bg-transparent bg-clip-padding px-3 py-1.5 text-base font-normal text-neutral-700 outline-none transition duration-300 ease-in-out focus:border-primary focus:text-neutral-700 focus:shadow-te-primary focus:outline-none dark:text-neutral-200 dark:placeholder:text-neutral-200\\" placeholder=\\"Search\\" aria-label=\\"Search\\" aria-describedby=\\"button-addon1\\"><button type=\\"submit\\" class=\\"bg-tvm-green text-white inline-flex justify-center rounded-md py-2 px-5 mr-3 text-sm font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2 ml-5\\">Search</button></div>
+    </div>
+  </div>
+  <div class=\\"px-4 py-5 sm:p-6\\">
+    <div class=\\"flow-root\\">
+      <div class=\\"-my-2 -mx-6 overflow-x-auto lg:-mx-8\\">
+        <div class=\\"inline-block min-w-full py-2 align-middle sm:px-6 lg:px-8\\">
+          <table class=\\"min-w-full divide-y divide-gray-300\\">
+            <thead>
+              <tr>
+                <th scope=\\"col\\" class=\\"px-3 py-3.5 text-left text-sm font-semibold text-gray-900\\">Image</th>
+                <th scope=\\"col\\" class=\\"px-3 py-3.5 text-left text-sm font-semibold text-gray-900\\">Name</th>
+                <th scope=\\"col\\" class=\\"px-3 py-3.5 text-left text-sm font-semibold text-gray-900\\">Genre</th>
+                <th scope=\\"col\\" class=\\"px-3 py-3.5 text-left text-sm font-semibold text-gray-900\\">Rating</th>
+              </tr>
+            </thead>
+            <tbody class=\\"divide-y divide-gray-200 bg-white cursor-pointer\\">
+              <tr>
+                <td class=\\"whitespace-nowrap px-3 py-2 text-sm text-gray-500\\"><img class=\\"h-15 w-10 rounded\\" src=\\"https://static.tvmaze.com/uploads/images/original_untouched/81/202627.jpg\\" alt=\\"\\"></td>
+                <td class=\\"whitespace-nowrap px-3 py-2 text-sm text-gray-500\\">
+                  <div class=\\"text-gray-500\\">Under the dome</div>
+                </td>
+                <td class=\\"whitespace-nowrap px-3 py-2 text-sm text-gray-500\\">
+                  <div class=\\"text-gray-500\\">Drama, Science-Fiction, Crime</div>
+                </td>
+                <td class=\\"whitespace-nowrap px-3 py-2 text-sm text-gray-500\\"><span class=\\"inline-flex rounded-full bg-green-100 px-2 text-xs font-semibold leading-5 text-green-800\\"></span></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>"
+`;

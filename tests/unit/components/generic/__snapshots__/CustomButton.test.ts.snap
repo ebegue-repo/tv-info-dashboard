@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`CustomButton > It should render a button with title "test label" 1`] = `"<button type=\\"submit\\" class=\\"bg-stone-900 text-white inline-flex justify-center rounded-md py-2 px-5 mr-3 text-sm font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2\\">test label</button>"`;
+
+exports[`CustomButton > It should use the bg-stone-900 class and match the snaphshot 1`] = `"<button type=\\"submit\\" class=\\"bg-stone-900 text-white inline-flex justify-center rounded-md py-2 px-5 mr-3 text-sm font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2\\">test label</button>"`;
+
+exports[`CustomButton > It should use the bg-tvm-green class and match the snapshot 1`] = `"<button type=\\"submit\\" class=\\"bg-tvm-green text-white inline-flex justify-center rounded-md py-2 px-5 mr-3 text-sm font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:ring-offset-2\\">test label</button>"`;
