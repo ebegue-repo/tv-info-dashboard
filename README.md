@@ -1,5 +1,13 @@
 # TV-INFO-DASHBOARD
 
+![home](https://user-images.githubusercontent.com/13064497/221438546-068ca1c3-d3d3-4c5b-862c-3fd0bfcaa3e5.png)
+
+![shows](https://user-images.githubusercontent.com/13064497/221438597-66c00921-9177-412d-9c92-c5a9dc7b1bef.png)
+
+![mobile](https://user-images.githubusercontent.com/13064497/221438627-59804a2f-00bf-4880-971a-1445c75889d6.png)
+
+![unit_tests](https://user-images.githubusercontent.com/13064497/221438647-f39f9fc8-fdec-4dd9-9c75-21a4974ecb68.png)
+
 ### Local environment
 ```
 npm version: 8.19.2
