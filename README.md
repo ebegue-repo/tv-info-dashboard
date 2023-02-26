@@ -56,7 +56,7 @@ Vite is the alternative to Webpack and it is very trendy right now. The main dif
 
 Regarding Unit Tests, I decided to use Vitest instead of Jest as for me it is much quicker to configure and use. I also use the "coverage-c8" library to create a basic coverage report on the command line. One of my testing strategies is using "snapshots" which is a very good way to check that the tested component has not been unintentionally modified from one commit to the next one.
 
-Also, I'd like to talk about the data store used to insternally save the data retrieved from the backend (the TV Maze API). I've used Pinia which is the latest evolution of Vuex and the current standard. Basically you use a store object that you can fill in or modify according to your needs.
+Also, I'd like to talk about the data store used to internally save the data retrieved from the backend (the TV Maze API). I've used Pinia which is the latest evolution of Vuex and the current standard. Basically you use a store object that you can fill in or modify according to your needs.
 
 Finally, the technology I've used to retrieve the data from the backend is Axios. The way of using it is really simple and the code is more clear than other options (Fetch).
 
